@@ -1,0 +1,7 @@
+
+*.pyc
+report_geraldo/lib/geraldo/docs/build/doctrees/
+report_geraldo/lib/geraldo/docs/build/html/
+.project
+.pydevproject
+.settings/
